@@ -32,7 +32,3 @@ Bachelor's degree at Fernfachhochschule Schweiz with focus on data science and d
 **Biology and Chemistry in english at Gymnasium Thun**  
 2014 - 2016  
 Getting academic basics in biology and chemistry. Level up english skills while doing the Gymnasium bilingual in german and english.
-
-
-### dev-note
-* print pdf using: https://webpagetopdf.com
