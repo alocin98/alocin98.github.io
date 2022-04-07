@@ -2,6 +2,24 @@
   body {
     background-color: #fff;
   }
+  .h3{
+    font-size: 1em !important;
+  }
+  .h5{
+    font-size: 1em;
+  }
+  p{
+    font-size: 12px;
+  }
+  .pb-1{
+    font-size: 15px;
+  }
+  .card-body > div {
+    font-size: 12px;
+  }
+  .skills-section span {
+    font-size: 1em;
+  }
   .container {
     width: auto;
     max-width: 100%;
@@ -12,17 +30,17 @@
   .cover.shadow-lg {
     box-shadow: none !important; }
   .cover-bg {
-    padding: 5rem !important;
+    padding: 2rem 3rem !important;
     padding-bottom: 10px !important; }
   .avatar {
     margin-top: -10px; }
   .about-section {
-    padding: 6.5rem 5rem 2rem !important; }
+    padding: 6.5rem 5rem 1rem !important; }
   .skills-section,
   .work-experience-section,
   .education-section,
   .contant-section {
-    padding: 1.5rem 5rem 2rem !important; }
+    padding: 1.5rem 5rem 1rem !important; }
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
