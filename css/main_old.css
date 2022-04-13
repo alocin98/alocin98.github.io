@@ -86,7 +86,6 @@ html {
   border-radius: 10px 10px 0 0; }
 
 .avatar {
-  height: fit-content;
   width: fit-content;
   margin-top: 20px;
   text-align: center;
@@ -125,7 +124,7 @@ footer a:not(.nav-link) {
   .avatar {
     margin-top: -10px; }
   .about-section {
-    padding: 6.5rem 5rem 2rem !important; }
+    padding: 6.5rem 5rem 2rem 2rem !important; }
   .skills-section,
   .work-experience-section,
   .education-section,
